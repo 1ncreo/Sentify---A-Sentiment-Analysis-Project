@@ -1,4 +1,4 @@
-Sentify - Sentiment Analysis Project
+#Sentify - Sentiment Analysis Project
 Sentify is a sentiment analysis project that analyzes text data to determine the sentiment expressed in it. It uses natural language processing (NLP) techniques and machine learning algorithms to classify text into positive, negative, or neutral sentiment.
 
 Features
