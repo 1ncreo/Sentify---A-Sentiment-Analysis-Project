@@ -16,7 +16,7 @@ from nltk.corpus import stopwords
 app = Flask(__name__)
 
 # YouTube API key
-api_key = 'AIzaSyCFEzcNYKCmGNClvgG-HulLmQUV10oazi4'
+api_key = 'ADD_YOUR_KEY'
 
 # Function to extract video ID from YouTube URL
 
