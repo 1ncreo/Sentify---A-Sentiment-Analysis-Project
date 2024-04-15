@@ -1,0 +1,4 @@
+flask
+keras
+youtube api
+nltk
